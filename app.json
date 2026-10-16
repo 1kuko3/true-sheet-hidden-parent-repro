@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "TrueSheetRepro",
+    "slug": "true-sheet-repro",
+    "scheme": "truesheetrepro",
+    "android": {
+      "package": "com.example.truesheetrepro"
+    },
+    "ios": {
+      "bundleIdentifier": "com.example.truesheetrepro"
+    },
+    "plugins": ["expo-router"]
+  }
+}
